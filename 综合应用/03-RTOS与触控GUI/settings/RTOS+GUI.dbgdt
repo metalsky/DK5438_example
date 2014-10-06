@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1621</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1215</ColumnWidth1><ColumnWidth2>324</ColumnWidth2><ColumnWidth3>81</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>240</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+    <Watch><Format><struct_types/><watch_formats><Fmt><Key>{W}Watch-0:Driver_IC</Key><Value>4</Value></Fmt></watch_formats></Format><Column0>102</Column0><Column1>153</Column1><Column2>100</Column2><Column3>100</Column3></Watch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-335-14098</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-32580-14107</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11083-14101</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>RTOS+GUI</ExpandedNode><ExpandedNode>RTOS+GUI/CLOCK.C</ExpandedNode><ExpandedNode>RTOS+GUI/GUI.C</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21832-14104</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd6><Tabs><Tab><Identity>TabID-13477-5930</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>Driver_IC</Expression></Expression><Expression><Expression>low_byte</Expression></Expression><Expression><Expression>high_byte</Expression></Expression><Expression><Expression>temp</Expression></Expression><Expression><Expression>pos_temp</Expression></Expression><Expression><Expression>cx</Expression></Expression><Expression><Expression>fac</Expression></Expression><Expression><Expression>cy</Expression></Expression><Expression><Expression>ox</Expression></Expression><Expression><Expression>oy</Expression></Expression></Expressions><TabId>0</TabId><Column0>102</Column0><Column1>153</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-28868-10554</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\BW-DK5438 DISK\&#x5F00;&#x53D1;&#x677F;&#x7A0B;&#x5e8F;\&#x7eFC;&#x5408;&#x5e94;&#x7528;\03-RTOS&#x4e0e;&#x89e6;&#x63A7;GUI\main.c</Filename><XPos>0</XPos><YPos>50</YPos><SelStart>3154</SelStart><SelEnd>3154</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\BW-DK5438 DISK\&#x5F00;&#x53D1;&#x677F;&#x7A0B;&#x5e8F;\&#x7eFC;&#x5408;&#x5e94;&#x7528;\03-RTOS&#x4e0e;&#x89e6;&#x63A7;GUI\main.h</Filename><XPos>0</XPos><YPos>153</YPos><SelStart>6481</SelStart><SelEnd>6481</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0183fbf0><key>iaridepm.enu1</key></Toolbar-0183fbf0><Toolbar-074c2220><key>debuggergui.enu1</key></Toolbar-074c2220><Toolbar-074c2160><key>430fet1</key></Toolbar-074c2160></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>748</Bottom><Right>331</Right><x>-2</x><y>-2</y><xscreen>229</xscreen><yscreen>204</yscreen><sizeHorzCX>119271</sizeHorzCX><sizeHorzCY>204409</sizeHorzCY><sizeVertCX>173438</sizeVertCX><sizeVertCY>751503</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>550</Bottom><Right>390</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>204167</sizeVertCX><sizeVertCY>553106</sizeVertCY></Rect></Wnd6><Wnd7><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>52428</Right><x>-2</x><y>548</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>104167</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>204167</sizeVertCX><sizeVertCY>200401</sizeVertCY></Rect></Wnd7></Sizes></Row0><Row1><Sizes><Wnd2><Rect><Top>-2</Top><Left>388</Left><Bottom>748</Bottom><Right>617</Right><x>388</x><y>-2</y><xscreen>229</xscreen><yscreen>204</yscreen><sizeHorzCX>119271</sizeHorzCX><sizeHorzCY>204409</sizeHorzCY><sizeVertCX>119271</sizeVertCX><sizeVertCY>751503</sizeVertCY></Rect></Wnd2></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>205</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>207</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>207415</sizeHorzCY><sizeVertCX>119271</sizeVertCX><sizeVertCY>204409</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\02-&#x7535;&#x5B50;&#x65F6;&#x949F;\EClock.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\04-&#x4Fe1;&#x53F7;&#x6e90;\EGenerator.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\01-MINI&#x7535;&#x5B50;&#x7434;\Electronic Organ.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\03-&#x7535;&#x5B50;&#x6e29;&#x5eA6;&#x8BA1;\EThermometer.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\06-UDP&#x670D;&#x52A1;&#x5668;\EtherNet.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\09-&#x7eA2;&#x5916;&#x6536;&#x53D1;&#x5668;\IrTranceiver.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\10-&#x7CBe;&#x7F8e;&#x8BA1;&#x65F6;&#x949F;\PrettyClock.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\07-&#x8FDC;&#x7A0B;&#x663e;&#x793A;&#x5668;\Remote Monitor.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\05-FLASH&#x7F16;&#x7A0B;&#x5668;\SPI FLASH.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\08-&#x89e6;&#x6478;&#x5C4F;&#x6821;&#x6B63;\TPAdjust.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\06-ADC\ADC.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\02-&#x57FA;&#x672C;IO\Basic IO.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\01-&#x65F6;&#x949F;&#x8BBe;&#x7F6e;\Clock.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\05-FLASH\Flash.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\10-&#x4F4e;&#x529F;&#x8017;&#x6A21;&#x5F0F;\LPM.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\08-RS232&#x901A;&#x8BAF;\RS232.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\09-RS485\RS485.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\11-&#x5B9e;&#x65F6;&#x65F6;&#x949F;\RTC.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\12-SPI&#x901A;&#x8BAF;\SPI.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\03-&#x5B9A;&#x65F6;&#x5668;\TimerA.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\07-USB&#x901A;&#x8BAF;\USB.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\04-&#x770B;&#x95e8;&#x72D7;&#x5B9A;&#x65F6;&#x5668;\WatchDog.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

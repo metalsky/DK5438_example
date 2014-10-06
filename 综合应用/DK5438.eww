@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\02-&#x7F16;&#x8F91;&#x63A7;&#x4eF6;&#x548C;&#x4e2D;&#x82F1;&#x6587;&#x8F93;&#x5165;&#x6CD5;\Edit+CN_EN_Input.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\03-RTOS&#x4e0e;&#x89e6;&#x63A7;GUI\RTOS+GUI.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\01-&#x591A;&#x7eA7;&#x6587;&#x672C;&#x83DC;&#x5355;\TextMenu.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\04-uIP1.0\uip_demo.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
